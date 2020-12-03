@@ -2,7 +2,12 @@
 
 The only package that is require is `ejs`, which can be installed using npm or yarn. Note that the command
 has to be installed globally, since the build script uses the `ejs` command. Once this is installed, 
-simply run `sh build.sh`. This command will compile the website and output it to the parent directory.
+simply run `sh build.sh`. This command will compile the website and output it to the `public/` directory.
+Note that assets (images, `.css`, etc.) must be put in the `public/assets` directory so that the HTML files 
+can access them. 
+
+After running `sh build.sh`,  the `public` folder should contain the self-contained static website that
+can be deployed anywhere.
 
 ## Stack
 
