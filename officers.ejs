@@ -1,0 +1,19 @@
+<%- include("./partials/header.ejs") %>
+
+<% officers.forEach(function(row){ %>
+    <div class="row">
+    <% row.forEach(function(officer){ %>
+        <div class="card col-lg m-3">
+            <div class="card-body">
+                <h3><%- officer.name %></h3>
+                <h5><%- officer.position %></h5>
+                <p>
+                    <%- officer.bio %>
+                </p>
+            </div>
+        </div>
+    <% }); %>
+    </div>
+<% }); %>
+
+<%- include("./partials/footer.ejs") %>

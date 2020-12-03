@@ -1,0 +1,26 @@
+<%- include("./partials/header.ejs") %>
+
+<div class="row">
+    <div class="col-md">
+        <h3>How do I join?</h3>
+        <p>
+            Thank you for showing interest in RPI-IEEE! To learn more about joining, you can contact us either through the contact form or by joining our Discord server. 
+        </p>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h4>Resources</h4>
+
+                <% resources.forEach(function(resource){ %>
+                    <div>
+                        <a href="<%= resource.link %>"><%= resource.name %></a>
+                    </div>
+                <% }); %>
+            </div>
+        </div>
+    </div>
+</div>
+
+<%- include("./partials/footer.ejs") %>

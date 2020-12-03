@@ -1,0 +1,50 @@
+{
+    "officers": [
+        [
+            {
+                "name": "Ivan Hammel",
+                "position": "President",
+                "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+            },
+            {
+                "name": "Tom Petr",
+                "position": "Vice-President",
+                "bio": "As Vice-President of RPI-IEEE I am mainly tasked with assisting the President of RPI-IEEE. Those tasks involve serving as ex officio Vice-Chair regarding IEEE reporting, overseeing RPI-IEEE activity, and serving as an official representative of the organization. I am a sophomore Electrical & Computer Systems Engineering dual major and I expect to graduate in 2023. Outside of RPI-IEEE, I am the EDE Project Manager for Rensselaer Motorsport and I also enjoy sports, the outdoors, playing guitar, video games, and everything related to tech and computers. I look forward to an exciting two semesters ahead of us as Vice-President! "
+            },
+            {
+                "name": "Duncan Hruska",
+                "position": "Secretary",
+                "bio": "As Vice-President of RPI-IEEE I am mainly tasked with assisting the President of RPI-IEEE. Those tasks involve serving as ex officio Vice-Chair regarding IEEE reporting, overseeing RPI-IEEE activity, and serving as an official representative of the organization. I am a sophomore Electrical & Computer Systems Engineering dual major and I expect to graduate in 2023. Outside of RPI-IEEE, I am the EDE Project Manager for Rensselaer Motorsport and I also enjoy sports, the outdoors, playing guitar, video games, and everything related to tech and computers. I look forward to an exciting two semesters ahead of us as Vice-President! "
+            }
+        ],
+        [
+            {
+                "name": "Garrett Gagnon",
+                "position": "Treasurer",
+                "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+            },
+            {
+                "name": "James Avtges",
+                "position": "Corporate Liaison",
+                "bio": "As Vice-President of RPI-IEEE I am mainly tasked with assisting the President of RPI-IEEE. Those tasks involve serving as ex officio Vice-Chair regarding IEEE reporting, overseeing RPI-IEEE activity, and serving as an official representative of the organization. I am a sophomore Electrical & Computer Systems Engineering dual major and I expect to graduate in 2023. Outside of RPI-IEEE, I am the EDE Project Manager for Rensselaer Motorsport and I also enjoy sports, the outdoors, playing guitar, video games, and everything related to tech and computers. I look forward to an exciting two semesters ahead of us as Vice-President! "
+            },
+            {
+                "name": "Reagan Wilcox",
+                "position": "External Liaison",
+                "bio": "As Vice-President of RPI-IEEE I am mainly tasked with assisting the President of RPI-IEEE. Those tasks involve serving as ex officio Vice-Chair regarding IEEE reporting, overseeing RPI-IEEE activity, and serving as an official representative of the organization. I am a sophomore Electrical & Computer Systems Engineering dual major and I expect to graduate in 2023. Outside of RPI-IEEE, I am the EDE Project Manager for Rensselaer Motorsport and I also enjoy sports, the outdoors, playing guitar, video games, and everything related to tech and computers. I look forward to an exciting two semesters ahead of us as Vice-President! "
+            }
+        ],
+        [
+            {
+                "name": "Sabrina Alvarez",
+                "position": "External Secretary",
+                "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+            },
+            {
+                "name": "Graham Misail",
+                "position": "Social Media Head",
+                "bio": "As Vice-President of RPI-IEEE I am mainly tasked with assisting the President of RPI-IEEE. Those tasks involve serving as ex officio Vice-Chair regarding IEEE reporting, overseeing RPI-IEEE activity, and serving as an official representative of the organization. I am a sophomore Electrical & Computer Systems Engineering dual major and I expect to graduate in 2023. Outside of RPI-IEEE, I am the EDE Project Manager for Rensselaer Motorsport and I also enjoy sports, the outdoors, playing guitar, video games, and everything related to tech and computers. I look forward to an exciting two semesters ahead of us as Vice-President! "
+            }
+        ]
+    ]
+}
