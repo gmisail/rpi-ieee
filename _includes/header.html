@@ -5,7 +5,11 @@
 </a>
 
 <nav class="menu-bar navbar navbar-expand-lg navbar-dark mb-3">
-    <div class="navbar-collapse" id="navbarSupportedContent">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu-bar" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="menu-bar">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
                 <a class="nav-link" href="{{ "/" | relative_url }}">Home</a>
@@ -34,26 +38,13 @@
 
         <ul class="nav navbar-nav navbar-right">
             <li>
-                <div class="btn-nav"><a class="btn btn-light btn-small navbar-btn ml-1" href="https://discord.gg/7nhDayfP78">
-                    <i class="fab fa-discord"></i>
-                </a>
-                </div>
+              <div class="btn-group" role="group" aria-label="Social Media">
+                <a class="btn btn-light btn-small navbar-btn" href="https://discord.gg/7nhDayfP78"><i class="fab fa-discord"></i></a>
+                <a class="btn btn-light btn-small navbar-btn" href="https://www.linkedin.com/company/rpi-ieee"><i class="fab fa-linkedin"></i></a>
+                <a class="btn btn-light btn-small navbar-btn" href="https://www.facebook.com/groups/59386539049"><i class="fab fa-facebook-square"></i></a>
+              </div>
             </li>
 
-            <li>
-                <div class="btn-nav"><a class="btn btn-light btn-small navbar-btn ml-1" href="https://www.linkedin.com/company/rpi-ieee">
-                    <i class="fab fa-linkedin"></i>
-                </a>
-                </div>
-            </li>
-
-            <li>
-                <div class="btn-nav">
-                    <a class="btn btn-light btn-small navbar-btn ml-1" href="https://www.facebook.com/groups/59386539049">
-                        <i class="fab fa-facebook-square"></i>
-                    </a>
-                </div>
-            </li>
 
            <!--- <li>
                 <div class="btn-nav">

@@ -7,4 +7,4 @@ Hey all! During the first week of March IEEE, RPI's ECSE department, and HKN wil
 
 -- The IEEE Executive Committee
 
-<img class="rounded mx-auto d-block blog-image" src="{{ "/assets/posts/professional-development-week.png.png" | relative_url }}" />
+<img class="rounded mx-auto d-block blog-image" src="{{ "/assets/posts/professional-development-week.png" | relative_url }}" />
