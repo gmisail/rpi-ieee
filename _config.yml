@@ -7,5 +7,6 @@ twitter_username: ''
 github_username: ''
 markdown: kramdown
 theme: minima
+excerpt_separator: "<!--excerpt-->"
 plugins:
   - jekyll-feed

@@ -23,19 +23,13 @@ layout: default
 
     <div class="card blog-card col-lg m-3">
         <div class="card-body">
-            <h3>Tom Petr</h3>
+            <h3>Colin Kilburn</h3>
             <h5>Vice-President</h5>
             <p>
-                As Vice-President of RPI-IEEE I am mainly tasked with assisting the President of RPI-IEEE. Those tasks
-                involve serving as ex officio Vice-Chair regarding IEEE reporting, overseeing RPI-IEEE activity, and
-                serving as an official representative of the organization. I am a sophomore Electrical & Computer
-                Systems Engineering dual major and I expect to graduate in 2023. Outside of RPI-IEEE, I am the EDE
-                Project Manager for Rensselaer Motorsport and I also enjoy sports, the outdoors, playing guitar, video
-                games, and everything related to tech and computers. I look forward to an exciting two semesters ahead
-                of us as Vice-President!
+                Hello! My name is Colin Kilburn and I am the Vice President of RPI-IEEE. I am majoring in Electrical Engineering with a focus in computer hardware and I hope to graduate a year early in the Spring of 2022. My goal for the club is to see the number of active members grow substantially so that once I and the other members of E-board graduate, the organization continues to function smoothly. Outside of my studies, I enjoy building custom mechanical keyboards and PCs. Feel free to contact me at my email below if you have any questions or suggestions.
                 <br>
                 <br>
-                <a href="mailto:petrt@rpi.edu">petrt@rpi.edu</a>
+                <a href="mailto:kilbuc@rpi.edu">kilbuc@rpi.edu</a>
             </p>
         </div>
     </div>
